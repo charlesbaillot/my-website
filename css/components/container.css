@@ -1,0 +1,13 @@
+.container{	width: 800px
+			margin: 0 auto;}
+
+/* Custom design with media query*/
+
+@media(max-width: 768px){
+	.container{width: 500px;}}
+
+@media(max-width: 500px){
+	.container{width: 300px;}}
+
+@media(max-width: 300px){
+	.container{width: 250px;}}

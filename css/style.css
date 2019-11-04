@@ -1,0 +1,20 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Permanent+Marker&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{		font-family: 'Indie Flower',serif;
+			font-size:18px;
+			background-color: #fbe4ec}
+
+h1,h2,h3{	font-family: 'Permanent Marker', serif;
+			font-weight:bold;
+			text-align: center;}
+
+
+
+
